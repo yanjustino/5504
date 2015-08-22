@@ -1,0 +1,4 @@
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\NucleoCompartilhado\Nucleo.Core\bin\Debug\Nucleo.Core.dll
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\NucleoCompartilhado\Nucleo.Core\bin\Debug\Nucleo.Core.pdb
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.dll
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.pdb

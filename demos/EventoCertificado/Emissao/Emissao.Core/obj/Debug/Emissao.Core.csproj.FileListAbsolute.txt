@@ -1,0 +1,11 @@
+c:\users\yanjustino\documents\visual studio 2015\Projects\EventoCertificado\Emissao.Core\bin\Debug\Emissao.Core.dll
+c:\users\yanjustino\documents\visual studio 2015\Projects\EventoCertificado\Emissao.Core\bin\Debug\Emissao.Core.pdb
+c:\users\yanjustino\documents\visual studio 2015\Projects\EventoCertificado\Emissao.Core\obj\Debug\Emissao.Core.dll
+c:\users\yanjustino\documents\visual studio 2015\Projects\EventoCertificado\Emissao.Core\obj\Debug\Emissao.Core.pdb
+C:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Emissao\Emissao.Core\bin\Debug\Emissao.Core.dll
+C:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Emissao\Emissao.Core\bin\Debug\Emissao.Core.pdb
+C:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Emissao\Emissao.Core\bin\Debug\Nucleo.Core.dll
+C:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Emissao\Emissao.Core\bin\Debug\Nucleo.Core.pdb
+C:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Emissao\Emissao.Core\obj\Debug\Emissao.Core.csprojResolveAssemblyReference.cache
+C:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Emissao\Emissao.Core\obj\Debug\Emissao.Core.dll
+C:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Emissao\Emissao.Core\obj\Debug\Emissao.Core.pdb

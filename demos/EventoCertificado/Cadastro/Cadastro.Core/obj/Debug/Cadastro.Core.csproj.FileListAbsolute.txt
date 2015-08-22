@@ -1,0 +1,7 @@
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Cadastro\Cadastro.Core\bin\Debug\Cadastro.Core.dll
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Cadastro\Cadastro.Core\bin\Debug\Cadastro.Core.pdb
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Cadastro\Cadastro.Core\bin\Debug\Nucleo.Core.dll
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Cadastro\Cadastro.Core\bin\Debug\Nucleo.Core.pdb
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Cadastro\Cadastro.Core\obj\Debug\Cadastro.Core.csprojResolveAssemblyReference.cache
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Cadastro\Cadastro.Core\obj\Debug\Cadastro.Core.dll
+c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Cadastro\Cadastro.Core\obj\Debug\Cadastro.Core.pdb
